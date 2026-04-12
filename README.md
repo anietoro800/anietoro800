@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alejandro
 
-<!--
-**anietoro800/anietoro800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Geospatial Analyst specializing in ecosystem monitoring and Earth Observation. My expertise lies in leveraging optical and radar data for complex time-series analysis, land cover classification, and change detection. I am passionate about spatial data management and building automated workflows to bridge the gap between raw geospatial data and actionable insights.
 
-Here are some ideas to get you started:
+## Education
+- M.Sc. in Geography | University of Guelph
+- B.Sc. in Environmental Science | University of Guelph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- ArcGIS Pro, Online, & Enterprise; Google Earth Engine (GEE), AutoCAD
+- Python (GeoPandas, Rasterio, ArcPy, NumPy, Scikit-learn)
+- SQL, Spatial Statistics, QA/QC workflows
+- LiDAR, Optical & SAR data integration, Time-Series Analysis,  Machine Learning
+
+## Current Interests
+- Deep Learning
+- Geospatial Foundation Models
+- Large Language Models
+
+## Featured Projects
+- Wetland Change Detection (Ontario) *(in progress)*
+- Flood Modeling in Nova Scotia *(in progress)*
+
+## Contact
+- LinkedIn: linkedin.com/in/anietoro
+- Email: ale.nieto00@hotmail.com
