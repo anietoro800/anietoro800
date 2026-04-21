@@ -3,7 +3,7 @@
 I am a Geospatial Analyst specializing in ecosystem monitoring and Earth Observation. My expertise lies in leveraging optical and radar data for complex time-series analysis, land cover classification, and change detection. I am passionate about spatial data management and building automated workflows to bridge the gap between raw geospatial data and actionable insights.
 
 ## Education
-- M.Sc. in Geography | University of Guelph
+- M.Sc. in Geography, Thesis on LLMs & Remote Sensing | University of Guelph
 - B.Sc. in Environmental Science | University of Guelph
 
 ## Technical Skills
