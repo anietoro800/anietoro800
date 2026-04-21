@@ -7,10 +7,10 @@ I am a Geospatial Analyst specializing in ecosystem monitoring and Earth Observa
 - B.Sc. in Environmental Science | University of Guelph
 
 ## Technical Skills
-- ArcGIS Pro, Online, & Enterprise; Google Earth Engine (GEE), AutoCAD
-- Python (GeoPandas, Rasterio, ArcPy, NumPy, Scikit-learn)
-- SQL, Spatial Statistics, QA/QC workflows
-- LiDAR, Optical & SAR data integration, Time-Series Analysis,  Machine Learning
+- ArcGIS Pro, Online; Google Earth Engine (GEE)
+- Python (GeoPandas, Rasterio, ArcPy, NumPy, Scikit-learn, geemap)
+- SQL, Statistics, QA/QC workflows, SOP Development
+- LiDAR, Optical, SAR, Time-Series Analysis, Change Detection, Land Cover Classification, Machine Learning
 
 ## Current Interests
 - Deep Learning
@@ -18,8 +18,8 @@ I am a Geospatial Analyst specializing in ecosystem monitoring and Earth Observa
 - Large Language Models
 
 ## Featured Projects
-- Wetland Change Detection (Ontario) *(in progress)*
-- Flood Modeling in Nova Scotia *(in progress)*
+- Kissimmee River Restoration Project
+- Minimal Change Pixels
 
 ## Contact
 - LinkedIn: linkedin.com/in/anietoro
