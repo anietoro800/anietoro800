@@ -9,7 +9,7 @@ I am a Geospatial Analyst specializing in ecosystem monitoring and Earth Observa
 ## Technical Skills
 - ArcGIS Pro, Online; Google Earth Engine (GEE)
 - Python (GeoPandas, Rasterio, ArcPy, NumPy, Scikit-learn, geemap)
-- SQL, Statistics, QA/QC workflows, SOP Development
+- Javascript, SQL, C#, Statistics
 - LiDAR, Optical, SAR, Time-Series Analysis, Change Detection, Land Cover Classification, Machine Learning
 
 ## Current Interests
@@ -20,6 +20,7 @@ I am a Geospatial Analyst specializing in ecosystem monitoring and Earth Observa
 ## Featured Projects
 - Kissimmee River Restoration Project
 - Minimal Change Pixels
+- More to come!
 
 ## Contact
 - LinkedIn: linkedin.com/in/anietoro
